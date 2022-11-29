@@ -1,5 +1,5 @@
-[
-  {
+{
+ "students":[ {
     "id": 1,
     "first_name": "Susie",
     "email": "skildale0@wunderground.com",
@@ -800,3 +800,4 @@
     "Image": "http://dummyimage.com/206x100.png/cc0000/ffffff"
   }
 ]
+}
